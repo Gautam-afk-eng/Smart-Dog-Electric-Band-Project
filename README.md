@@ -24,7 +24,11 @@ A hardware-based smart collar prototype engineered to monitor pet activity level
 ---
 
 ### 🔌 Circuit Design & Prototype
-*(Pro-tip: Take a quick photo of your actual Arduino setup or wiring on the breadboard, then drag and drop that image file right into this spot in the GitHub editor to upload it!)*
+
+<p align="center">
+  <img src="Breadboard.jpg" alt="Breadboard Wiring Setup" width="45%" />
+  <img src="Screenshot 2026-01-01 155844.png" alt="Hardware Prototype" width="45%" />
+</p>
 
 ---
 
